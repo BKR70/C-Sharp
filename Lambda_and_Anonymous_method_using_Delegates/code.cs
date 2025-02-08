@@ -11,6 +11,7 @@ namespace Lambda_and_Anonymous_method_using_delegates
         public delegate int Calculation(int x, int y);
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome here");
             //Anonymous method
             Calculation cal = delegate(int x, int y) {
                 return x + y; 
