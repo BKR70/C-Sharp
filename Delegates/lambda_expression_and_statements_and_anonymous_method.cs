@@ -17,10 +17,12 @@ namespace Lambda_and_Anonymous_method_using_delegates
             };
             Result(cal, 10, 30);
 
+            
             // Lambda expression 
             Calculation cal2 = (x, y) => x + y;
             Result(cal2, 10, 30);
 
+            
             // Lambda statements
             Calculation cal3 = (x, y) =>
             {
