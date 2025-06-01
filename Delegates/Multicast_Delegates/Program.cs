@@ -1,10 +1,11 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 /*
+ * 
  * Multicasting of delegate should have a return type of Void 
  * otherwise it will throw a runtime exception.
  * 

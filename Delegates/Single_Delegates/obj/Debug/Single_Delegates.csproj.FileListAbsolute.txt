@@ -1,0 +1,7 @@
+F:\Prog_Practice\C#\OOP\Delegates\Single_Delegates\bin\Debug\Single_Delegates.exe.config
+F:\Prog_Practice\C#\OOP\Delegates\Single_Delegates\bin\Debug\Single_Delegates.exe
+F:\Prog_Practice\C#\OOP\Delegates\Single_Delegates\bin\Debug\Single_Delegates.pdb
+F:\Prog_Practice\C#\OOP\Delegates\Single_Delegates\obj\Debug\Single_Delegates.csproj.AssemblyReference.cache
+F:\Prog_Practice\C#\OOP\Delegates\Single_Delegates\obj\Debug\Single_Delegates.csproj.CoreCompileInputs.cache
+F:\Prog_Practice\C#\OOP\Delegates\Single_Delegates\obj\Debug\Single_Delegates.exe
+F:\Prog_Practice\C#\OOP\Delegates\Single_Delegates\obj\Debug\Single_Delegates.pdb

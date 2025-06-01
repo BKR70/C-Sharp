@@ -1,0 +1,7 @@
+F:\Prog_Practice\C#\OOP\Delegates\Delegate_as_parameter\bin\Debug\Delegate_as_parameter.exe.config
+F:\Prog_Practice\C#\OOP\Delegates\Delegate_as_parameter\bin\Debug\Delegate_as_parameter.exe
+F:\Prog_Practice\C#\OOP\Delegates\Delegate_as_parameter\bin\Debug\Delegate_as_parameter.pdb
+F:\Prog_Practice\C#\OOP\Delegates\Delegate_as_parameter\obj\Debug\Delegate_as_parameter.csproj.AssemblyReference.cache
+F:\Prog_Practice\C#\OOP\Delegates\Delegate_as_parameter\obj\Debug\Delegate_as_parameter.csproj.CoreCompileInputs.cache
+F:\Prog_Practice\C#\OOP\Delegates\Delegate_as_parameter\obj\Debug\Delegate_as_parameter.exe
+F:\Prog_Practice\C#\OOP\Delegates\Delegate_as_parameter\obj\Debug\Delegate_as_parameter.pdb

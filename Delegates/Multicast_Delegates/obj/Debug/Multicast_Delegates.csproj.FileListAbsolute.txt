@@ -1,0 +1,7 @@
+F:\Prog_Practice\C#\Delegates\Multicast_Delegates\bin\Debug\Multicast_Delegates.exe.config
+F:\Prog_Practice\C#\Delegates\Multicast_Delegates\bin\Debug\Multicast_Delegates.exe
+F:\Prog_Practice\C#\Delegates\Multicast_Delegates\bin\Debug\Multicast_Delegates.pdb
+F:\Prog_Practice\C#\Delegates\Multicast_Delegates\obj\Debug\Multicast_Delegates.csproj.AssemblyReference.cache
+F:\Prog_Practice\C#\Delegates\Multicast_Delegates\obj\Debug\Multicast_Delegates.csproj.CoreCompileInputs.cache
+F:\Prog_Practice\C#\Delegates\Multicast_Delegates\obj\Debug\Multicast_Delegates.exe
+F:\Prog_Practice\C#\Delegates\Multicast_Delegates\obj\Debug\Multicast_Delegates.pdb

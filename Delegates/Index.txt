@@ -1,4 +1,0 @@
-Delegates contains the reference to several methods and call them when needed. A delegate is a class that encapsulates a method signature. Use case : Event-handling model.
-
-Why do we need delegates?
-Programmers often needs to pass a method as a parameter of other methods, for this purpose we create and use delegates.

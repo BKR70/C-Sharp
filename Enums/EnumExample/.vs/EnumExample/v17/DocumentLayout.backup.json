@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Prog_Practice\\C#\\Enums\\EnumExample\\",
+  "WorkspaceRootPath": "C:\\Users\\BILAS KUMAR\\OneDrive\\Desktop\\GitHub\\C-Sharp\\Enums\\EnumExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B02F6A8-E4DE-48E9-9EE9-91D1349BB912}|EnumExample\\EnumExample.csproj|f:\\prog_practice\\c#\\enums\\enumexample\\enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B02F6A8-E4DE-48E9-9EE9-91D1349BB912}|EnumExample\\EnumExample.csproj|c:\\users\\bilas kumar\\onedrive\\desktop\\github\\c-sharp\\enums\\enumexample\\enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B02F6A8-E4DE-48E9-9EE9-91D1349BB912}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B02F6A8-E4DE-48E9-9EE9-91D1349BB912}|EnumExample\\EnumExample.csproj|f:\\prog_practice\\c#\\enums\\enumexample\\enumexample\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B02F6A8-E4DE-48E9-9EE9-91D1349BB912}|EnumExample\\EnumExample.csproj|C:\\Users\\BILAS KUMAR\\OneDrive\\Desktop\\GitHub\\C-Sharp\\Enums\\EnumExample\\enumexample\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B02F6A8-E4DE-48E9-9EE9-91D1349BB912}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,23 +24,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "OrderStatus.cs",
-              "DocumentMoniker": "F:\\Prog_Practice\\C#\\Enums\\EnumExample\\EnumExample\\OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\BILAS KUMAR\\OneDrive\\Desktop\\GitHub\\C-Sharp\\Enums\\EnumExample\\EnumExample\\OrderStatus.cs",
               "RelativeDocumentMoniker": "EnumExample\\OrderStatus.cs",
-              "ToolTip": "F:\\Prog_Practice\\C#\\Enums\\EnumExample\\EnumExample\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\BILAS KUMAR\\OneDrive\\Desktop\\GitHub\\C-Sharp\\Enums\\EnumExample\\EnumExample\\OrderStatus.cs",
               "RelativeToolTip": "EnumExample\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:21:45.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T06:21:45.712Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Prog_Practice\\C#\\Enums\\EnumExample\\EnumExample\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\BILAS KUMAR\\OneDrive\\Desktop\\GitHub\\C-Sharp\\Enums\\EnumExample\\EnumExample\\Program.cs",
               "RelativeDocumentMoniker": "EnumExample\\Program.cs",
-              "ToolTip": "F:\\Prog_Practice\\C#\\Enums\\EnumExample\\EnumExample\\Program.cs*",
-              "RelativeToolTip": "EnumExample\\Program.cs*",
+              "ToolTip": "C:\\Users\\BILAS KUMAR\\OneDrive\\Desktop\\GitHub\\C-Sharp\\Enums\\EnumExample\\EnumExample\\Program.cs",
+              "RelativeToolTip": "EnumExample\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T06:21:17.007Z",
