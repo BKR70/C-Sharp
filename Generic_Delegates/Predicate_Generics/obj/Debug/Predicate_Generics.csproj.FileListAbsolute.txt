@@ -1,0 +1,7 @@
+F:\Prog_Practice\C#\Generic_Delegates\Predicate_Generics\bin\Debug\Predicate_Generics.exe.config
+F:\Prog_Practice\C#\Generic_Delegates\Predicate_Generics\bin\Debug\Predicate_Generics.exe
+F:\Prog_Practice\C#\Generic_Delegates\Predicate_Generics\bin\Debug\Predicate_Generics.pdb
+F:\Prog_Practice\C#\Generic_Delegates\Predicate_Generics\obj\Debug\Predicate_Generics.csproj.AssemblyReference.cache
+F:\Prog_Practice\C#\Generic_Delegates\Predicate_Generics\obj\Debug\Predicate_Generics.csproj.CoreCompileInputs.cache
+F:\Prog_Practice\C#\Generic_Delegates\Predicate_Generics\obj\Debug\Predicate_Generics.exe
+F:\Prog_Practice\C#\Generic_Delegates\Predicate_Generics\obj\Debug\Predicate_Generics.pdb
