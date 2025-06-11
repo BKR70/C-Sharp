@@ -1,7 +1,0 @@
-F:\Prog_Practice\C#\Generic_Delegates\Func_Generics\bin\Debug\Func_Generics.exe.config
-F:\Prog_Practice\C#\Generic_Delegates\Func_Generics\bin\Debug\Func_Generics.exe
-F:\Prog_Practice\C#\Generic_Delegates\Func_Generics\bin\Debug\Func_Generics.pdb
-F:\Prog_Practice\C#\Generic_Delegates\Func_Generics\obj\Debug\Func_Generics.csproj.AssemblyReference.cache
-F:\Prog_Practice\C#\Generic_Delegates\Func_Generics\obj\Debug\Func_Generics.csproj.CoreCompileInputs.cache
-F:\Prog_Practice\C#\Generic_Delegates\Func_Generics\obj\Debug\Func_Generics.exe
-F:\Prog_Practice\C#\Generic_Delegates\Func_Generics\obj\Debug\Func_Generics.pdb
